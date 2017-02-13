@@ -1,0 +1,19 @@
+{
+  "name": "@misskey/emojinize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/potato4d/ms-emojinize.git"
+  },
+  "author": "Potato4d",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/potato4d/ms-emojinize/issues"
+  },
+  "homepage": "https://github.com/potato4d/ms-emojinize#readme"
+}
